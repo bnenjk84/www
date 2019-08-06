@@ -1,3 +1,9 @@
+<?php
+  //start session
+  session_start();
+
+  include "./includes/config.php";
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -8,7 +14,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Modern Business - Start Bootstrap Template</title>
+  <title><?php echo $_ENV[site]; ?> - Home</title>
 
   <!-- Bootstrap core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
