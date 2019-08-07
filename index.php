@@ -127,7 +127,7 @@
   <!-- Page Content -->
   <div class="container">
 
-    <h1 class="my-4">Welcome to Modern Business</h1>
+    <h1 class="my-4">Welcome to NKLAB Corporation</h1>
 
     <!-- Marketing Icons Section -->
     <div class="row">
