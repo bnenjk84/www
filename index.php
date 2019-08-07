@@ -106,7 +106,7 @@
           </div>
         </div>
         <!-- Slide Three -->
-        <div class="carousel-item" style="background-image: url('./images/porsche2_opt.jpg)">
+        <div class="carousel-item" style="background-image: url('./images/porsche2_opt.jpg')">
           <div class="carousel-caption d-none d-md-block">
             <h3>Third Slide</h3>
             <p>This is a description for the third slide.</p>
