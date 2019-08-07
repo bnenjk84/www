@@ -104,7 +104,7 @@
         <div class="row">
           <div class="col-lg-6">
             <a href="#">
-              <img class="img-fluid rounded" src="http://placehold.it/750x300" alt="">
+              <img class="img-fluid rounded" src="https://placehold.it/750x300" alt="">
             </a>
           </div>
           <div class="col-lg-6">
@@ -126,7 +126,7 @@
         <div class="row">
           <div class="col-lg-6">
             <a href="#">
-              <img class="img-fluid rounded" src="http://placehold.it/750x300" alt="">
+              <img class="img-fluid rounded" src="https://placehold.it/750x300" alt="">
             </a>
           </div>
           <div class="col-lg-6">
@@ -148,7 +148,7 @@
         <div class="row">
           <div class="col-lg-6">
             <a href="#">
-              <img class="img-fluid rounded" src="http://placehold.it/750x300" alt="">
+              <img class="img-fluid rounded" src="https://placehold.it/750x300" alt="">
             </a>
           </div>
           <div class="col-lg-6">
@@ -170,7 +170,7 @@
         <div class="row">
           <div class="col-lg-6">
             <a href="#">
-              <img class="img-fluid rounded" src="http://placehold.it/750x300" alt="">
+              <img class="img-fluid rounded" src="https://placehold.it/750x300" alt="">
             </a>
           </div>
           <div class="col-lg-6">
