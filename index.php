@@ -94,22 +94,22 @@
         <!-- Slide One -->
         <div class="carousel-item active" style="background-image: url('./images/bmw_opt.jpg')">
           <div class="carousel-caption d-none d-md-block">
-            <h3>First Slide</h3>
-            <p>This is a description for the first slide.</p>
+            <h3>B MMMM W</h3>
+            <p>Purposely Purposeful</p>
           </div>
         </div>
         <!-- Slide Two -->
         <div class="carousel-item" style="background-image: url('./images/porsche1_opt.jpg')">
           <div class="carousel-caption d-none d-md-block">
-            <h3>Second Slide</h3>
-            <p>This is a description for the second slide.</p>
+            <h3>Daily Driver</h3>
+            <p>Much Like - Y U NO HAVE?</p>
           </div>
         </div>
         <!-- Slide Three -->
         <div class="carousel-item" style="background-image: url('./images/porsche2_opt.jpg')">
           <div class="carousel-caption d-none d-md-block">
-            <h3>Third Slide</h3>
-            <p>This is a description for the third slide.</p>
+            <h3>Drums</h3>
+            <p>because moody and drums!</p>
           </div>
         </div>
       </div>
