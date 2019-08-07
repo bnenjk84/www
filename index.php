@@ -106,7 +106,7 @@
           </div>
         </div>
         <!-- Slide Three -->
-        <div class="carousel-item" style="background-image: url('./images/porsche2_opt.jpg')">
+        <div class="carousel-item" style="background-image: url('./images/drums_opt.jpg')">
           <div class="carousel-caption d-none d-md-block">
             <h3>Drums</h3>
             <p>because moody and drums!</p>
